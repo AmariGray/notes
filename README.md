@@ -21,3 +21,14 @@
 😹 Crying Laughing Cat  
 😎 Cool  
 😒 Side Eye
+
+## Keyboard shortcuts
+Shortcuts I frequently use 
+- Ctrl+C (copy)
+- Ctrl+V (paste)
+- Ctrl+Z (undo)
+
+Shortcuts I would like to start using:
+- Ctrl+Backspace (delete the last word)
+- Ctrl+Tab (Switched to the tab on the right)
+- Alt + Tab (Switch between open apps)
