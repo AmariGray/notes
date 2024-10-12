@@ -33,4 +33,5 @@ Shortcuts I would like to start using:
 - Ctrl+Tab (Switched to the tab on the right)
 - Alt + Tab (Switch between open apps)
 
-#[CLI commands](docs/cli.md)
+## Useful CLI commands
+[CLI commands](docs/cli.md)
